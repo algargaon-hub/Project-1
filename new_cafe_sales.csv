@@ -1,0 +1,301 @@
+transaction_id,item,quantity,total_spent,payment_method,location,transaction_date
+1,juice   ,1,4.0,digital wallet, takeaway,04-21-2023
+2,COFFEE,1,3.5, CASH,IN-STORE ,"Jan 09, 2023"
+3,JUICE,4,16.0,CREDIT CARD,In-Store,11/01/2023
+4,cof fee,1,3.5,Digital Wallet,In-Store,2023-08-18
+5,Coffee,1,3.5,DIGITAL WALLET,IN-STORE,07-Feb-2023
+6,   COOKIE,1,2.0,CREDIT CARD, Takeaway,"Jan 20, 2023"
+7,salad,5,35.0,Cash,TAKEAWAY,06-21-2023
+8,Coffee,1,3.5,   Digital Wallet,In-Store,18-Jan-2023
+9,Juice,1,4.0,credit card, Takeaway,"Oct 19, 2023"
+10,SALAD ,2,14.0,CREDIT CARD,  takeaway,2023-06-17
+11,sandwich,3,25.5,Cash,TAKEAWAY,21/08/2023
+12,Coffee   ,2,7.0,ca sh,IN-STORE,"Apr 04, 2023"
+13,Cookie,3,6.0, credit card,IN-STORE,"Nov 20, 2023"
+14,Coffee,4,14.0,digital wallet, takeaway,2023-03-06
+15,JUICE ,1,4.0,CREDIT CARD  ,Takeaway,2023-09-07
+16, Sandwich,3,25.5,Digital Wallet,takeaway,02-02-2023
+17,Cookie,2,4.0,Cash,take away,04/02/2023
+18,cookie,3,6.0,DIGITAL WALLET,  In-Store,"Jul 22, 2023"
+19,Coffee,2,7.0,Cash   ,Takeaway,12/05/2023
+20, Sandwich,2,17.0,cash,TAKEAWAY,"May 11, 2023"
+21,   COOKIE,3,6.0,Digital Wallet,in store,2023-11-19
+22,Sandwich   ,3,25.5,Digital Wallet, TAKEAWAY,10/07/2023
+23,Salad,5,35.0,credit card,  TAKEAWAY,"Sep 27, 2023"
+24,   Sandwich,3,25.5,  credit card,take away,"Aug 03, 2023"
+25,SALAD,2,14.0,cash,in store,"Sep 30, 2023"
+26,coockie,5,10.0,  Cash,takeaway ,2023-10-10
+27,JUICE,2,8.0,digitalwalet,In-Store,"Dec 31, 2023"
+28,cofe,1,3.5,Credit Card,in-store,17-Jan-2023
+29,   juice,3,12.0,CASH,   IN-STORE,23/07/2023
+30,coffee,1,3.5,,   TAKEAWAY,21-Nov-2023
+31, sandwich,1,8.5,credit card,in-store   ,01-07-2023
+32,Sandwich,4,34.0,   Credit Card,IN-STORE,01-15-2023
+33,salad,3,21.0, Cash,In-Store,"May 02, 2023"
+34,  JUICE,2,8.0,credt card,in-store,2023-06-03
+35,   Coffee,5,17.5,credit card,TAKEAWAY,07-Nov-2023
+36,cookie  ,1,2.0,Cash,   takeaway,13-Apr-2023
+37,sandwich,1,8.5,  digital wallet,   in-store,22/12/2023
+38,jucie,4,16.0,   CREDIT CARD,takeaway ,2023-03-06
+39,COFFEE ,2,7.0,creditcard,TAKEAWAY,"Jan 18, 2023"
+40, SALAD,3,21.0,Credit Card,In-Store,22-Sep-2023
+41,sandwich,5,42.5,Cash,take away,"Aug 02, 2023"
+42,Coffee ,4,14.0,Cash   ,takeaway,2023-07-28
+43,   Coffee,3,10.5,  Cash,takaway,"Sep 29, 2023"
+44,smoothy,3,16.5,credit card,In-Store,10-20-2023
+45,smoothie,4,22.0,Credit Card  ,Takeaway ,03-18-2023
+46,juce,3,12.0,CREDIT CARD ,  Takeaway,"Jun 20, 2023"
+47,  salad,3,21.0,   Cash,In-Store ,2023-05-25
+48,juice   ,5,20.0,cash   , Takeaway,2023-03-12
+49,SALAD,1,7.0,credt card,In-Store,01-04-2023
+50,salad,5,35.0,dig wallet,   in-store,07-Aug-2023
+51,SMOOTHIE ,5,27.5, CASH,Takeaway ,"Jul 23, 2023"
+52,SALAD,1,7.0,  Cash,take away,2023-01-03
+53,SMOOTHIE,1,5.5,Credit Card,Takeaway,12-16-2023
+54,COOKIE   ,3,6.0,CASH,   takeaway,"Feb 06, 2023"
+55,sandwich,5,42.5,Digital Wallet,takaway,10-01-2023
+56,SMOOTHIE,1,5.5,Credit Card,  in-store,15/04/2023
+57,  COFFEE,4,14.0,Cash,In-Store,07/07/2023
+58,cookie,4,8.0,digital wallet ,In-Store,08-06-2023
+59,cookie,3,6.0,CREDIT CARD  ,  TAKEAWAY,18/01/2023
+60,   cookie,5,10.0,ca sh,  In-Store,10-Dec-2023
+61,salad,1,7.0,ca sh,In-Store,04-29-2023
+62,coockie,4,8.0,CREDIT CARD,in-store,05-09-2023
+63,Salad,3,21.0,Digital Wallet,in-store,"Nov 25, 2023"
+64, salad,3,21.0,   cash,In-Store,02-Feb-2023
+65,Sandwich ,5,42.5,digital wallet,  Takeaway,19/09/2023
+66,smoothy,5,27.5,cash,   IN-STORE,"Nov 18, 2023"
+67,salad ,2,14.0,credit card,IN-STORE,10-May-2023
+68,Coffee,2,7.0,,take away,01-Aug-2023
+69, Sandwich,5,42.5,Credit Card,Takeaway,24-Nov-2023
+70, SANDWICH,2,17.0,ca sh,IN-STORE,27/09/2023
+71,JUICE,2,8.0,ca sh, Takeaway,12-Dec-2023
+72,cokie,1,2.0,digital wallet,in-store,2023-03-21
+73,Sandwich,2,17.0,Credit Card  ,TAKEAWAY,10-Nov-2023
+74, cookie,4,8.0, Cash,TAKEAWAY,28-Sep-2023
+75,  Juice,5,20.0,Cash,takeaway   ,"Oct 13, 2023"
+76,coffee   ,2,7.0,ca sh,TAKEAWAY,06-25-2023
+77,smoothy,1,5.5,CASH,TAKEAWAY,"Jul 29, 2023"
+78, smoothie,1,5.5,   cash,takeaway,"Jan 10, 2023"
+79,SANDWICH,2,17.0,Credit Card ,  Takeaway,"Feb 03, 2023"
+80,Coffee  ,5,17.5,  CREDIT CARD,  Takeaway,2023-08-14
+81,COOKIE  ,1,2.0,digital wallet,In-Store,30-Oct-2023
+82,sandwich,4,34.0,Credit Card,instore,09-26-2023
+83,coockie,1,2.0,CREDIT CARD  ,in-store,"Jun 17, 2023"
+84,salad,5,35.0,   CASH,in store,08-Apr-2023
+85,sandwich,3,25.5,DIGITAL WALLET  ,In-Store ,13/10/2023
+86,cofe,3,10.5,Cash,Takeaway,07-30-2023
+87,smothie,4,22.0,Cash,instore,27-Aug-2023
+88,Juice   ,5,20.0,cash   ,   In-Store,28/03/2023
+89,sandwich,5,42.5, CREDIT CARD,in-store,2023-09-13
+90,   Salad,5,35.0,cash,  in-store,24-Sep-2023
+91,SMOOTHIE  ,3,16.5,Credit Card,   takeaway,06-16-2023
+92,coffee  ,2,7.0,   Digital Wallet,TAKEAWAY,"Jan 26, 2023"
+93,SMOOTHIE ,1,5.5,Digital Wallet ,in-store,2023-03-04
+94,SALAD   ,1,7.0,Digital Wallet  ,in-store,14-Aug-2023
+95,Salad,4,28.0,csh,TAKEAWAY,09-10-2023
+96, Smoothie,1,5.5, digital wallet,  takeaway,2023-06-18
+97,COOKIE ,5,10.0,  CASH,Takeaway,2023-02-08
+98, Salad,5,35.0, Cash,IN-STORE   ,2023-05-30
+99,sandwitch,2,17.0,Cash,In-Store   ,2023-08-13
+100,juce,1,4.0,Credit Card, IN-STORE,22/09/2023
+101,juce,2,8.0,   cash,TAKEAWAY ,15/08/2023
+102,   SALAD,5,35.0,digital wallet,take away,05-Dec-2023
+103,COOKIE,5,10.0, digital wallet,  in-store,23-Oct-2023
+104, sandwich,4,34.0,CREDIT CARD,In-Store,08/02/2023
+105,   Salad,1,7.0,ca sh,take away,09-04-2023
+106,juice ,1,4.0,CASH  ,Takeaway,"Jan 13, 2023"
+107,cokie,5,10.0,creditcard,   in-store,12/08/2023
+108,coffee  ,4,14.0,Credit Card,Takeaway,08-12-2023
+109,salad,4,28.0,Cash   ,  in-store,11-Jan-2023
+110,Cookie,2,4.0,   Credit Card,  TAKEAWAY,2023-02-28
+111,Smoothie,1,5.5,cash   ,takeaway,01-Jan-2023
+112,Coffee   ,5,17.5, cash,TAKEAWAY   ,08-16-2023
+113,smoothie,3,16.5,CREDIT CARD,takeaway ,20/09/2023
+114,juice  ,1,4.0,DIGITAL WALLET,in store,03-14-2023
+115,sandwich,5,42.5,DIGITAL WALLET ,takeaway,"Jun 13, 2023"
+116,salad,3,21.0,  cash, TAKEAWAY,15/12/2023
+117,sandwich  ,5,42.5,CASH, Takeaway,21-Dec-2023
+118,juice ,4,16.0,digital wallet,takeaway,2023-10-18
+119, SANDWICH,5,42.5,DIGITAL WALLET,take away,08-Jan-2023
+120,Coffee   ,4,14.0,CREDIT CARD   ,   TAKEAWAY,2023-12-31
+121,Coffee,1,3.5,Credit Card,  takeaway,2023-05-30
+122,juice,4,16.0,   digital wallet,Takeaway,"Feb 03, 2023"
+123,Cookie,2,4.0,creditcard,IN-STORE,2023-12-09
+124,COOKIE,4,8.0,Cash,take away,10-16-2023
+125,  salad,4,28.0,csh,take away,05-20-2023
+126,COOKIE,4,8.0,digital wallet,  in-store,2023-01-24
+127,juice,5,20.0,,in-store,"Aug 12, 2023"
+128,sandwitch,5,42.5,csh,IN-STORE,16-Jul-2023
+129,cokie,5,10.0,ca sh, Takeaway,"May 01, 2023"
+130, Cookie,4,8.0,Digital Wallet  ,instore,"Feb 03, 2023"
+131,SANDWICH,1,8.5,Cash,in-store,2023-09-20
+132,SALAD,3,21.0,credit card,in-store ,04-05-2023
+133,   salad,3,21.0,creditcard,In-Store,09-Mar-2023
+134,smoothie  ,1,5.5,digital wallet,takeaway   ,11/08/2023
+135,sallad,2,14.0,DIGITAL WALLET,  IN-STORE,12-Jan-2023
+136,   SMOOTHIE,5,27.5,DIGITAL WALLET,In-Store   ,08-03-2023
+137,  JUICE,5,20.0,DIGITAL WALLET  , TAKEAWAY,11-Jan-2023
+138,SALAD  ,1,7.0,Cash, IN-STORE,2023-03-12
+139,cofe,5,17.5,DIGITAL WALLET   ,TAKEAWAY,2023-12-01
+140,   SALAD,2,14.0,   Credit Card,IN-STORE,"Jan 07, 2023"
+141,salad,2,14.0,Cash  ,IN-STORE,02-28-2023
+142, SALAD,2,14.0,cash, TAKEAWAY,08-Jun-2023
+143,   Cookie,4,8.0,cash   ,in-store,11-30-2023
+144,Juice,3,12.0, credit card,TAKEAWAY   ,03/05/2023
+145,   Smoothie,4,22.0,Cash,in store,15/02/2023
+146,juice,1,4.0,  Credit Card,takeaway  ,11-26-2023
+147,Smoothie,5,27.5,   Credit Card,TAKEAWAY   ,24-Aug-2023
+148,salad ,3,21.0, digital wallet,in store,2023-04-27
+149,COFFEE,1,3.5,digital wallet,takeaway,2023-01-29
+150,cookie,4,8.0,CREDIT CARD, Takeaway,2023-08-14
+151,sallad,4,28.0,DIGITAL WALLET,take away,2023-03-22
+152,  cookie,4,8.0,, TAKEAWAY,30-Nov-2023
+153,Sandwich  ,2,17.0,Cash ,take away,"Oct 25, 2023"
+154,coffee,5,17.5,csh,  TAKEAWAY,"Jul 25, 2023"
+155,coffee ,3,10.5,   CASH, In-Store,12-Nov-2023
+156,sandwich ,5,42.5,  Cash,Takeaway,2023-05-20
+157,cookie,1,2.0,  CASH, Takeaway,04-04-2023
+158,   Coffee,2,7.0,dig wallet,in store,"May 19, 2023"
+159,Juice,4,16.0,   credit card, TAKEAWAY,01-29-2023
+160,sandwich,3,25.5,CASH   ,Takeaway,07-31-2023
+161,smothie,5,27.5,digital wallet,IN-STORE,2023-01-23
+162,Salad,1,7.0,Digital Wallet ,In-Store  ,20-Jan-2023
+163,Salad,3,21.0,Digital Wallet,  IN-STORE,2023-08-17
+164,Cookie,3,6.0,Credit Card,In-Store,17-Nov-2023
+165,smoothie  ,4,22.0,creditcard,in-store   ,2023-01-26
+166,COFFEE,1,3.5,csh,takeaway   ,07/03/2023
+167,   SALAD,4,28.0,digital wallet,   takeaway,2023-12-02
+168,SALAD,3,21.0, credit card,IN-STORE,"Nov 05, 2023"
+169,juice  ,3,12.0,csh, Takeaway,"Jun 02, 2023"
+170,smothie,3,16.5,DIGITAL WALLET, Takeaway,18-Feb-2023
+171,Salad,1,7.0,digital wallet   ,takeaway,2023-07-27
+172,Coffee,3,10.5, Cash,take away,2023-02-07
+173,coffee  ,1,3.5,dig wallet,takeaway,"Jan 31, 2023"
+174,   SALAD,3,21.0, digital wallet,  TAKEAWAY,06-01-2023
+175,salad,1,7.0,credit card,   In-Store,"Mar 19, 2023"
+176,   Cookie,3,6.0,Cash,TAKEAWAY ,03/09/2023
+177,COOKIE   ,4,8.0,   digital wallet,In-Store,2023-11-23
+178,Smoothie,5,27.5,credit card, TAKEAWAY,16-Sep-2023
+179,Coffee ,1,3.5,credit card,IN-STORE,27/03/2023
+180,sandwich,2,17.0,  CREDIT CARD, takeaway,06-05-2023
+181, COOKIE,1,2.0,   Cash,IN-STORE   ,14/10/2023
+182,JUICE ,4,16.0,digital wallet,in-store,16-Apr-2023
+183,COFFEE,1,3.5,creditcard,Takeaway,24-Jul-2023
+184,cookie,1,2.0,,TAKEAWAY,29/06/2023
+185,SMOOTHIE,2,11.0,digital wallet,TAKEAWAY  ,13-Apr-2023
+186,SMOOTHIE,2,11.0,digital wallet,In-Store   ,2023-03-05
+187,SANDWICH,3,25.5,CASH,in-store,"Sep 16, 2023"
+188, Juice,1,4.0,CASH,IN-STORE  ,2023-05-21
+189,COOKIE,4,8.0,credit card,take away,10-02-2023
+190,  salad,4,28.0,CASH,IN-STORE   ,"Mar 05, 2023"
+191,COOKIE,2,4.0,Cash,Takeaway ,30-Sep-2023
+192,SMOOTHIE   ,3,16.5,Cash,IN-STORE,03-23-2023
+193,Salad ,4,28.0, CASH,take away,30-Nov-2023
+194,JUICE,1,4.0,Cash, TAKEAWAY,15-Nov-2023
+195,SANDWICH  ,4,34.0,Digital Wallet,IN-STORE,15/04/2023
+196,   cookie,1,2.0,Credit Card  ,instore,2023-10-14
+197,sandwich,5,42.5,cash   ,In-Store   ,02-04-2023
+198,saldd,2,14.0,DIGITAL WALLET, In-Store,10-19-2023
+199,Smoothie,4,22.0,ca sh,in-store  ,21/07/2023
+200, COFFEE,2,7.0,digital wallet,IN-STORE,2023-06-25
+201,Cookie  ,3,6.0,DIGITAL WALLET,takeaway  ,"Sep 11, 2023"
+202,cookie,4,8.0, cash,   Takeaway,01-03-2023
+203, coffee,4,14.0, Digital Wallet,takeaway,06-17-2023
+204,Coffee,1,3.5,CASH   ,takeaway,10-Jun-2023
+205,  COOKIE,1,2.0, cash,IN-STORE,2023-01-26
+206,Coffee,3,10.5,creditcard,   takeaway,2023-05-01
+207,cookie,3,6.0,Digital Wallet ,in-store,02-07-2023
+208, Juice,1,4.0,CREDIT CARD,take away,22-Aug-2023
+209,coffee  ,4,14.0,ca sh,take away,08-10-2023
+210,Salad,1,7.0, Digital Wallet,IN-STORE   ,"Feb 07, 2023"
+211,cof fee,5,17.5,Cash,in store,05-Jul-2023
+212,SANDWICH,1,8.5,credit card,instore,16/06/2023
+213,COFFEE,1,3.5,   CASH,  in-store,14-May-2023
+214,COOKIE,2,4.0,digital wallet,in-store,2023-02-09
+215,   Sandwich,4,34.0,CREDIT CARD ,   takeaway,06-Aug-2023
+216,Cookie,4,8.0,credt card,takeaway,"Sep 27, 2023"
+217,Coffee,5,17.5,Credit Card ,IN-STORE ,25-Aug-2023
+218, smoothie,2,11.0,Cash,in-store,"Apr 30, 2023"
+219,  Coffee,3,10.5,  cash,takeaway  ,08-Nov-2023
+220,SALAD,3,21.0,CREDIT CARD,IN-STORE ,09-24-2023
+221,  Juice,5,20.0, digital wallet,TAKEAWAY ,"Nov 18, 2023"
+222,smoothie,4,22.0,CREDIT CARD,Takeaway,24-May-2023
+223,smoothie,1,5.5,Cash,takeaway   ,2023-08-22
+224,juce,1,4.0, digital wallet,in-store  ,04-29-2023
+225,sandwich,2,17.0, Credit Card,TAKEAWAY  ,09-02-2023
+226,jucie,1,4.0, CREDIT CARD,take away,2023-05-10
+227,COOKIE,5,10.0,credit card, IN-STORE,19/08/2023
+228,   JUICE,1,4.0,cash,  IN-STORE,10-12-2023
+229,sandwich,2,17.0,digital wallet  ,takeaway,02-Sep-2023
+230,sandwich,3,25.5,CREDIT CARD,takaway,17/07/2023
+231,juice,5,20.0,digital wallet,TAKEAWAY,"Dec 29, 2023"
+232,coockie,1,2.0,Credit Card  ,   takeaway,"Jan 12, 2023"
+233,JUICE,4,16.0,DIGITAL WALLET,   Takeaway,"Mar 17, 2023"
+234,SANDWICH,5,42.5,credit card  ,In-Store ,2023-09-11
+235,SANDWICH   ,2,17.0,CREDIT CARD  ,in-store ,08-27-2023
+236, Sandwich,4,34.0,CASH  ,  In-Store,"Jul 05, 2023"
+237,  SMOOTHIE,5,27.5,digitalwalet,instore,29/09/2023
+238,JUICE,2,8.0,creditcard,In-Store ,11/09/2023
+239,Salad,1,7.0,credit card,   in-store,08-Sep-2023
+240,COOKIE,1,2.0,creditcard,   in-store,05-Sep-2023
+241, coffee,5,17.5,digitalwalet,   takeaway,07-Jan-2023
+242, SMOOTHIE,2,11.0,Cash,   in-store,2023-09-10
+243,SANDWICH,4,34.0,   credit card,IN-STORE,07-29-2023
+244, Juice,3,12.0,Digital Wallet,in-store  ,09-Oct-2023
+245,Cookie,1,2.0,Digital Wallet,Takeaway,2023-08-30
+246,SALAD  ,2,14.0,,  takeaway,24/08/2023
+247,   SALAD,1,7.0,ca sh,   IN-STORE,15/06/2023
+248,   COOKIE,5,10.0,CREDIT CARD   ,  In-Store,03-31-2023
+249,salad,1,7.0,Digital Wallet,take away,17/02/2023
+250,Juice,1,4.0,Credit Card,takeaway,02-14-2023
+251,SMOOTHIE,5,27.5,digital wallet,takeaway,10-03-2023
+252, sandwich,2,17.0,Cash   ,Takeaway,20-Jan-2023
+253,Sandwich,4,34.0,Credit Card,in store,2023-01-27
+254, Sandwich,1,8.5,digital wallet,in store,30/10/2023
+255,  Juice,5,20.0,credt card,IN-STORE,03/10/2023
+256,Coffee,2,7.0,CASH,in-store,"Feb 19, 2023"
+257,Salad,2,14.0,Credit Card,in-store   ,05/02/2023
+258,smothie,5,27.5,credit card, takeaway,21/06/2023
+259,cookie ,5,10.0,ca sh, takeaway,21-May-2023
+260,Salad,3,21.0,Cash,takeaway,01-12-2023
+261,cokie,1,2.0,dig wallet,in-store,10/06/2023
+262,saldd,4,28.0,  Credit Card,  TAKEAWAY,07-01-2023
+263,  Coffee,5,17.5,digitalwalet,IN-STORE,2023-06-20
+264,sandw ich,5,42.5,  Credit Card,take away,"Dec 11, 2023"
+265,   Coffee,1,3.5, cash,IN-STORE  ,07/11/2023
+266, juice,2,8.0,creditcard,takeaway   ,2023-06-12
+267,Sandwich,1,8.5,ca sh,in-store   ,29/03/2023
+268,sandwich ,1,8.5,cash,Takeaway  ,15-Oct-2023
+269,JUICE   ,1,4.0,CASH,instore,"Aug 15, 2023"
+270,SANDWICH ,1,8.5,digital wallet,Takeaway,29/08/2023
+271,   Cookie,3,6.0,credit card,  in-store,"Mar 08, 2023"
+272,SALAD,2,14.0,   CASH,In-Store,08-Jul-2023
+273,   cookie,1,2.0,Digital Wallet,In-Store,02-04-2023
+274,cof fee,2,7.0,dig wallet,   takeaway,10-Dec-2023
+275,JUICE ,3,12.0,credit card,   Takeaway,2023-01-28
+276,smoothy,5,27.5,CREDIT CARD,IN-STORE,12-09-2023
+277,smothie,3,16.5,Cash ,takeaway,02-12-2023
+278, SALAD,5,35.0, cash,TAKEAWAY,20/01/2023
+279,salad ,4,28.0,CREDIT CARD  ,In-Store   ,"Sep 09, 2023"
+280,juice,5,20.0,,In-Store   ,24/12/2023
+281,sandwich,3,25.5,   cash,  TAKEAWAY,28-Nov-2023
+282,   SANDWICH,2,17.0,Credit Card,takeaway ,11/10/2023
+283,  SMOOTHIE,1,5.5,  Digital Wallet,TAKEAWAY,04-27-2023
+284,  Juice,2,8.0,Cash, IN-STORE,"Jan 06, 2023"
+285, Juice,3,12.0,cash,takaway,2023-04-10
+286,coffee   ,4,14.0,   CASH,take away,2023-03-13
+287,cookie,1,2.0,CASH ,take away,26/05/2023
+288,salad,2,14.0,DIGITAL WALLET,   In-Store,"Dec 04, 2023"
+289,jucie,1,4.0,cash,   Takeaway,10-11-2023
+290,sandwich,4,34.0,ca sh,  IN-STORE,2023-06-06
+291, Sandwich,4,34.0,  CREDIT CARD,   In-Store,12-14-2023
+292,coffee ,4,14.0,   Digital Wallet,IN-STORE   ,05/12/2023
+293,SALAD,4,28.0,csh,in store,12-Apr-2023
+294,jucie,2,8.0,   CASH,in-store,08-02-2023
+295,Cookie,5,10.0, digital wallet,In-Store,23-Jul-2023
+296, JUICE,2,8.0,DIGITAL WALLET,IN-STORE,"Jul 27, 2023"
+297,Salad  ,2,14.0,credit card,Takeaway,17/02/2023
+298,smoothie  ,4,22.0,  digital wallet,takeaway,18/12/2023
+299, COFFEE,5,17.5,Credit Card   ,In-Store,10-21-2023
+300,Juice   ,4,16.0,,Takeaway,23/04/2023
